@@ -1,0 +1,1 @@
+This repo is to save all the files related to my first HTML assignment on The Odin Project.
